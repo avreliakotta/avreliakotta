@@ -13,4 +13,4 @@
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <br/>
 <br/>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/avreliakotta/bbfce31e0217a3689c8d961a356cb10d/)
+https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10dhttps://gist.github.com/avreliakotta/bbfce31e0217a3689c8d961a356cb10d/
