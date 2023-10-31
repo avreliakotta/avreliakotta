@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=avreliakotta)
 
-### Connect with me
+### Connects
 
-<img align="left" src=" https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=linkedin">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia Melnyk-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/natmel/)
 
 ### Skills and tools
 
