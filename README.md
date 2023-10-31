@@ -14,4 +14,4 @@
 
 ### Statictics
 
-https://github-readme-stats.vercel.app/api?username=avreliakotta&show_icons=true
+![Your Repository Stats](https://github-readme-stats.vercel.app/api?username=avreliakotta&show_icons=true)
