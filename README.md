@@ -5,6 +5,7 @@
 ### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia%20Melnyk-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/natmel)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram)](https://t.me/nataliaMelnyk28)
 
 ### Skills and tools
 
