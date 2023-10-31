@@ -20,3 +20,7 @@
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avreliakotta&layout=compact)](https://github.com/avreliakotta)
+
+### Views counter
+
+![](https://komarev.com/ghpvc/?username=avreliakotta)
